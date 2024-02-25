@@ -5,15 +5,10 @@ Welcome to the Age Calculator app! This web application allows users to calculat
 Table of Contents
 
 Features
-
 Demo
-
 Installation
-
 Usage
-
 Contributing
-
 License
 
 Features
